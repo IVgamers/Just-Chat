@@ -1,0 +1,56 @@
+body{
+  background: #000000;
+  color: #303030;
+  font-family: Balsamiq Sans;
+}
+
+label{
+  width: 5%;
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px;
+  font-family: Patrick Hand;
+  font-size: 19px;
+}
+
+input{
+  background: #e5e5e5;
+  color: #303030;
+  font-size: 120%;
+  border: none;
+	border-radius: 5px;
+  outline: none;
+  font-family: Jua;
+}
+
+.Message{
+  color: black;
+}
+
+#Main{
+  background: rgb(161, 168, 161);
+  border-radius: 1%;
+  padding-left: 1%;
+/*	width: 80%;
+	height: 80vh;
+	position: absolute;
+	top:10%;
+	left: 10%;*/
+}
+
+#Title{
+  font-size: 300%;
+  font-family: Kalam;
+}
+
+
+.cm{
+        background-color: rgb(52, 52, 56);
+height: 30px;
+width: 600px;
+color: whitesmoke;
+}
+
+
+.Button:hover
+{cursor: pointer;}
